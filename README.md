@@ -9,3 +9,7 @@ I'm also using a [Dual Drive Extruder](https://www.aliexpress.com/item/100500342
 **Firmware features of note:**
 
 Babystepping is on, use the Tune > Probe Z offset menu mid-print to adjust your Z height in realtime. Get that perfect first layer.
+
+
+
+If you have no idea how to dissassemble your printer or compile the firmware yourself, i recommend [this guy's]([ABL and Marlin Install KP3S - YouTube](https://youtu.be/t8V_ioDw-fo)) videos.
