@@ -1,0 +1,2 @@
+Simply put the robin_nano.bin onto a SD Card and insert it into the printer, then turn the printer on. It will automatically flash the new firmware.
+Once done flashing, if touch isn't working correctly run the M995 command on it and follow the prompts on the printer to fix it.
